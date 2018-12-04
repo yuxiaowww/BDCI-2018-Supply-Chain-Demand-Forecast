@@ -18,7 +18,7 @@
   
 ### 其他说明：
 1、dataset中存放数据集：
-	下载地址为：链接: https://pan.baidu.com/s/1kSG8TNTkgVjyb1FwWTlg4A 提取码: dh59 
+	下载链接: https://pan.baidu.com/s/1kSG8TNTkgVjyb1FwWTlg4A 提取码: dh59 
   
 2、word为代码执行说明文件，程序执行流程及运行环境里面有详细说明；
 
