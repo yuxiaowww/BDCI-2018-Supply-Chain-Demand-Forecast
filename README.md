@@ -1,23 +1,22 @@
-## BDCI-2018-Supply-Chain-Demand-Forecast
-# 初赛Rank1 复赛Rank1 2018 CCF 大数据与计算智能大赛 供应链需求预测 Miracccccccle
+# BDCI-2018-Supply-Chain-Demand-Forecast
+## 初赛Rank1 复赛Rank1 2018 CCF 大数据与计算智能大赛 供应链需求预测 Miracccccccle
 
-大赛介绍：
+### 大赛介绍：
 	2018-CCF-Big Data and Computational Intelligence Competition (BDCI 2018) - Supply Chain Demand Forecast
   
 	2018-CCF-大数据与计算智能大赛（BDCI 2018）BDCI 2018 -供应链需求预测
   
-赛题链接：
+### 赛题链接：
 	https://www.datafountain.cn/competitions/313/details
   
-赛题解读：
+### 赛题解读：
 	数据：执御平台上沙特阿拉伯市场的历史数据积累，数据时间跨度为2017年3月1日至2018年3月16日数据。
   
 	商品属性数据，商品的市场表现数据，营销信息数据，也可爬取外部数据如：宗教和天气数据。
   
 	目标：预测2018年5月1日起，未来5周的sku_id的每一周的销量值。
   
-
-
+### 其他说明：
 1、dataset中存放数据集：
 	下载地址为：链接: https://pan.baidu.com/s/1kSG8TNTkgVjyb1FwWTlg4A 提取码: dh59 
   
