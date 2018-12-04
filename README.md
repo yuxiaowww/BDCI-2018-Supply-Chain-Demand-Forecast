@@ -7,7 +7,7 @@
 	2018-CCF-大数据与计算智能大赛（BDCI 2018）BDCI 2018 -供应链需求预测
   
 ### 赛题链接：
-	[ss](https://www.datafountain.cn/competitions/313/details)
+	https://www.datafountain.cn/competitions/313/details
   
 ### 赛题解读：
 	数据：执御平台上沙特阿拉伯市场的历史数据积累，数据时间跨度为2017年3月1日至2018年3月16日数据。
@@ -18,7 +18,7 @@
   
 ### 其他说明：
 	1、dataset中存放数据集：
-	下载链接: [ss](https://pan.baidu.com/s/1kSG8TNTkgVjyb1FwWTlg4A) 提取码: dh59 
+	下载链接: https://pan.baidu.com/s/1kSG8TNTkgVjyb1FwWTlg4A 提取码: dh59 
 	
 	2、word为代码执行说明文件，程序执行流程及运行环境里面有详细说明；
 	
